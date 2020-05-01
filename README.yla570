@@ -1,0 +1,4 @@
+- Audio files feature extraction
+- Training 3SA models in google colab
+- Refinement of the model structure based on the traning result
+- Code review

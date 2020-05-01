@@ -1,0 +1,6 @@
+- Explored and extracted sentence embeddings using different SOTA for nlp such as Bert and SIF.
+- Implemented Back-Translation using googletrans for paraphrasing.
+- Visualization of audio files in 3D spectroagram.
+- Trained the model for different architectures.
+- Code review
+- Partial contribution to the python notebook and report.
